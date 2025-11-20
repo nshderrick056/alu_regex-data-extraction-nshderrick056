@@ -2,7 +2,7 @@
 
 🚀 Project Overview Regular expressions (regex) are powerful tools for pattern matching in text. This project demonstrates how to use them in Python to scan a text file and extract useful information automatically.
 
-📂 Project Structure bash Copy Edit alu_regex-data-extraction-Jonathan2055/ │ ├── regex_extractor.py # Main Python script with regex patterns and extraction logic ├── sample.txt # Sample text file containing raw data to be processed └── README.md # This file 📌 Features ✅ Extracts common patterns from unstructured text
+📂 Project Structure bash Copy Edit alu_regex-data-extraction-nshderrick056/ │ ├── regex_extractor.py # Main Python script with regex patterns and extraction logic ├── sample.txt # Sample text file containing raw data to be processed └── README.md # This file 📌 Features ✅ Extracts common patterns from unstructured text
 
 ✉️ Emails
 
@@ -22,7 +22,9 @@
 
 📥 How to Use Clone the repository (or download the folder):
 
-bash Copy Edit git clone https://github.com/your-username/alu_regex-data-extraction-Jonathan2055.git cd alu_regex-data-extraction-Jonathan2055 Add your sample text to the sample.txt file.
+bash Copy Edit 
+git clone https://github.com/nshderrick056/alu_regex-data-extraction-nshderrick056.git 
+cd alu_regex-data-extraction-nshderrick056 Add your sample text to the sample.txt file.
 
 Make sure it's in the same directory as regex_extractor.py.
 
