@@ -22,9 +22,7 @@
 
 📥 How to Use Clone the repository (or download the folder):
 
-bash Copy Edit 
-git clone https://github.com/nshderrick056/alu_regex-data-extraction-nshderrick056.git 
-cd alu_regex-data-extraction-nshderrick056 Add your sample text to the sample.txt file.
+bash Copy Edit git clone https://github.com/nshderrick056/alu_regex-data-extraction-nshderrick056.git cd alu_regex-data-extraction-nshderrick056 Add your sample text to the sample.txt file.
 
 Make sure it's in the same directory as regex_extractor.py.
 
@@ -38,26 +36,18 @@ Each type of data is printed to the terminal in a categorized format.
 
 💡 Sample Output markdown Copy Edit Emails:
 
-user@example.com
-URLs:
+user@example.com URLs:
 
-https://example.org
-Phone Numbers:
+https://example.org Phone Numbers:
 
-(123) 456-7890
-Credit Cards:
+(123) 456-7890 Credit Cards:
 
-1234-5678-9012-3456
-Times:
+1234-5678-9012-3456 Times:
 
-14:30
-2:45 PM
-HTML Tags:
+14:30 2:45 PM HTML Tags:
 
 Hashtags:
 
-#regex
-#python
-Currency Amounts:
+#regex #python Currency Amounts:
 
 $1,200.00
